@@ -1,0 +1,5 @@
+# nvidia drivers
+*.download.nvidia.com
+#
+# gameloop android games emulator
+down.gameloop.com
