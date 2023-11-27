@@ -1,5 +1,4 @@
 filedelivery.nexusmods.com
 patchcdn.pathofexile.com
 pls.patch.daybreakgames.com
-# frontier games
 cdn.zaonce.net

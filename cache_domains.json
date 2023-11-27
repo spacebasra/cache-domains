@@ -1,11 +1,6 @@
 {
 	"cache_domains": [
 		{
-			"name": "space",
-			"description": "SpaceBasra required domains",
-			"domain_files": ["space.txt"]
-		},
-		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
 			"domain_files": ["blizzard.txt"]
