@@ -1,2 +1,0 @@
-*.download.nvidia.com
-down.gameloop.com
