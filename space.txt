@@ -1,5 +1,3 @@
 # ssl and cant be cached
 # *.download.nvidia.com
 # down.gameloop.com
-13.107.213.63
-13.107.246.63
