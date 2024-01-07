@@ -1,2 +1,3 @@
-*.minecraft.net
-*.mojang.com
+# ssl and cant be cached
+# *.download.nvidia.com
+# down.gameloop.com
