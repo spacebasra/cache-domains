@@ -1,3 +1,4 @@
 # ssl and cant be cached
 # *.download.nvidia.com
 # down.gameloop.com
+*.deploy.static.akamaitechnologies.com
