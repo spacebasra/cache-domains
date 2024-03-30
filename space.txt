@@ -2,4 +2,3 @@
 # *.download.nvidia.com
 # down.gameloop.com
 *.deploy.static.akamaitechnologies.com
-104.18.34.171
